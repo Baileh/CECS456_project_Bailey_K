@@ -13,3 +13,5 @@ pip install scikit-learn
 
 
 Run the code on main.py
+
+Project is about categorizing and differentiating cars and trucks given a data set.

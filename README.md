@@ -6,7 +6,7 @@ pip install numpy
 
 pip install keras
 
-pip matplotlib
+pip install matplotlib
 
 pip install scikit-learn
 
